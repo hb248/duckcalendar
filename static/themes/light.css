@@ -1,0 +1,54 @@
+body {
+    background-color: var(--light-bg-col);
+    color: var(--light-text-col);
+    border-color: var(--light-border-col);
+}
+
+h1 {
+    color: var(--light-h1-col);
+}
+
+header {
+    background-color: var(--light-header-col);
+}
+
+main {
+    background-color: var(--light-main-col);
+}
+
+footer {
+    background-color: var(--light-footer-col);
+}
+
+button {
+    background-color: var(--light-button-bg);
+    color: var(--light-button-text);
+}
+
+button:hover {
+    background-color: var(--light-button-bg-hov);
+    color: var(--light-button-text-hov);
+}
+
+.door {
+    background-color: var(--light-door-bg);
+    color: var(--light-door-text);
+}
+
+.door:hover {
+    background-color: var(--light-door-bg-hov);
+    color: var(--light-door-text-hov);
+}
+
+a {
+    color: var(--light-a-col);
+}
+
+img {
+    border-color: var(--light-img-border-col) !important;
+}
+
+.past-day {
+    border-color: var(--light-special-col) !important;
+    box-shadow: 0.2rem 0.2rem var(--light-special-col) !important;
+}

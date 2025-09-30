@@ -1,0 +1,54 @@
+body {
+    background-color: var(--dark-bg-col);
+    color: var(--dark-text-col);
+    border-color: var(--dark-border-col);
+}
+
+h1 {
+    color: var(--dark-h1-col);
+}
+
+header {
+    background-color: var(--dark-header-col);
+}
+
+main {
+    background-color: var(--dark-main-col);
+}
+
+footer {
+    background-color: var(--dark-footer-col);
+}
+
+button {
+    background-color: var(--dark-button-bg);
+    color: var(--dark-button-text);
+}
+
+button:hover {
+    background-color: var(--dark-button-bg-hov);
+    color: var(--dark-button-text-hov);
+}
+
+.door {
+    background-color: var(--dark-door-bg);
+    color: var(--dark-door-text);
+}
+
+.door:hover {
+    background-color: var(--dark-door-bg-hov);
+    color: var(--dark-door-text-hov);
+}
+
+a {
+    color: var(--dark-a-col);
+}
+
+img {
+    border-color: var(--dark-img-border-col) !important;
+}
+
+.past-day {
+    border-color: var(--dark-special-col) !important;
+    box-shadow: 0.2rem 0.2rem var(--dark-special-col) !important;
+}

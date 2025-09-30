@@ -1,0 +1,79 @@
+/* Farb-Variablen */
+:root {
+    --dark-bg-col: #1e1e2c;
+    --dark-text-col: #e0e0e0;
+    --dark-h1-col: #ffcb6b;
+
+    --dark-header-col: #3a3a5d;
+    --dark-main-col: #4c566a;
+    --dark-footer-col: #2e3440;
+
+    --dark-button-bg: #bf616a;
+    --dark-button-text: #eceff4;
+    --dark-button-bg-hov: #d08770;
+    --dark-button-text-hov: #1e1e2c;
+
+    --dark-door-bg: #88c0d0;
+    --dark-door-text: #2e3440;
+    --dark-door-bg-hov: #5e81ac;
+    --dark-door-text-hov: #eceff4;
+
+    --dark-a-col: #ebcb8b;
+    --dark-border-col: #bf616a;
+    --dark-img-border-col: #bf616a;
+
+    --dark-special-col: #ffcb6b;
+
+
+    --light-bg-col: #ffffff;
+    --light-text-col: #3b4252;
+    --light-h1-col: #bf616a;
+
+    --light-header-col: #eceff4;
+    --light-main-col: #e5e9f0;
+    --light-footer-col: #d08770;
+
+    --light-button-bg: #88c0d0;
+    --light-button-text: #3b4252;
+    --light-button-bg-hov: #5e81ac;
+    --light-button-text-hov: #ffffff;
+
+    --light-door-bg: #bf616a;
+    --light-door-text: #ffffff;
+    --light-door-bg-hov: #d08770;
+    --light-door-text-hov: #3b4252;
+
+    --light-a-col: #bf616a;
+    --light-border-col: #5e81ac;
+    --light-img-border-col: #5e81ac;
+
+    --light-special-col: #88c0d0;
+}
+
+/* Allgemeine Formatierungen */
+
+html {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-family: Calibri, sans-serif;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+h1 {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-family: "Comic Sans MS",Calibri , sans-serif;
+}
+
+p {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
